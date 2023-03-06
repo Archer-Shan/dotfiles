@@ -1,0 +1,4 @@
+set clipboard=unnamed
+
+"keymap esc to jj
+inoremap jj <esc>
